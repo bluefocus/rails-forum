@@ -3,8 +3,6 @@
 [![Build Status][Build Status Image]][Build Status]
 [![Code Climate][Code Climate Image]][Code Climate]
 
-Find out what your Ruby gems are worth.
-
 [Build Status Image]: https://secure.travis-ci.org/bluefocus/rails-forum.png?branch=master
 [Build Status]: http://travis-ci.org/bluefocus/rails-forum
 [Code Climate Image]: https://codeclimate.com/github/bluefocus/rails-forum.png
